@@ -1,6 +1,6 @@
 # PCA and Feature Extraction Project
 
-This repository contains Python implementations of various machine learning algorithms for classification, clustering, dimensionality reduction, and feature extraction.
+This repository contains Python implementations of various deep learning algorithms for classification, clustering, dimensionality reduction, and feature extraction.
 
 ## Overview
 
